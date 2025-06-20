@@ -1,0 +1,66 @@
+[
+  {
+    "device_name": "Pulse Oximeter",
+    "description": "Measures blood oxygen saturation and heart rate.",
+    "usage": ["Place on finger", "Turn on", "Read value"],
+    "tips": "Ensure finger is clean and still.",
+    "image": "pulse_oximeter.jpg"
+  },
+  {
+    "device_name": "ECG Machine",
+    "description": "Records heart's electrical signals.",
+    "usage": ["Attach leads", "Power on", "Start recording"],
+    "tips": "Ensure patient is relaxed and still.",
+     "image": "ecg_machine.jpg"
+  },
+  {
+    "device_name": "Sphygmomanometer",
+    "description": "Measures blood pressure using an inflatable cuff.",
+    "usage": ["Wrap cuff on upper arm", "Inflate cuff", "Read pressure on dial or screen"],
+    "tips": "Keep the arm level with the heart and ensure the cuff is snug.",
+    "image": "sphygmomanometer.jpg"
+  },
+  {
+    "device_name": "Thermometer",
+    "description": "Measures body temperature.",
+    "usage": ["Place under tongue or on forehead", "Wait for beep", "Read the temperature"],
+    "tips": "Avoid eating or drinking 10 minutes before oral measurement.",
+    "image": "thermometer.jpg"
+  },
+  {
+    "device_name": "Glucometer",
+    "description": "Measures blood sugar levels.",
+    "usage": ["Insert test strip", "Prick finger", "Place drop of blood", "Read result"],
+    "tips": "Use a new lancet each time and clean the finger before testing.",
+    "image": "glucometer.jpg"
+  },
+  {
+    "device_name": "Nebulizer",
+    "description": "Delivers medication to lungs via mist.",
+    "usage": ["Add medication to chamber", "Attach mask", "Switch on and inhale mist"],
+    "tips": "Clean the device after each use to prevent infection.",
+    "image": "nebulizer.jpg"
+  },
+  {
+    "device_name": "Defibrillator",
+    "description": "Delivers electric shock to restore heart rhythm.",
+    "usage": ["Attach pads", "Analyze rhythm", "Press shock button if instructed"],
+    "tips": "Follow device voice prompts; don't touch the patient during analysis or shock.",
+    "image": "defibrillator.jpg"
+  },
+  {
+    "device_name": "Ventilator",
+    "description": "Supports or replaces breathing by delivering oxygen.",
+    "usage": ["Connect to patient", "Adjust settings", "Monitor breathing patterns"],
+    "tips": "Only trained personnel should adjust settings; ensure humidifier is working.",
+    "image": "ventilator.jpg"
+  },
+  {
+    "device_name": "Otoscope",
+    "description": "Used to examine the ear canal and eardrum.",
+    "usage": ["Turn on light", "Gently insert into ear", "Observe ear canal"],
+    "tips": "Do not insert too deep; use a clean speculum for each patient.",
+    "image": "otoscope.jpg"
+  }
+]
+
